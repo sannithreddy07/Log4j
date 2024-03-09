@@ -1,0 +1,5 @@
+2024-03-09 21:18:27,682 INFO  [Log4jdemo] credentials entered 
+2024-03-09 21:18:28,494 INFO  [Log4jdemo] clicked login button 
+2024-03-09 21:18:28,582 INFO  [Log4jdemo] after login dashboard displayed 
+2024-03-09 21:18:30,488 INFO  [Log4jdemo] clicked on logout 
+2024-03-09 21:18:30,692 INFO  [Log4jdemo] ************************** 
